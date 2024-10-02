@@ -2,3 +2,8 @@ Data sources:
 https://www.kaggle.com/datasets/tongpython/cat-and-dog
 https://www.kaggle.com/datasets/amandam1/120-dog-breeds-breed-classification
 https://www.kaggle.com/datasets/ma7555/cat-breeds-dataset
+
+
+
+Dog breed model:
+https://drive.google.com/drive/folders/1h7scxQWBmHOfI_IDmdVyBjC5-fuQUKO1?usp=sharing
