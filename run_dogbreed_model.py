@@ -256,6 +256,7 @@ breed_map = {0: 'Chihuahua',
 print("Predicted breed : ",breed_map[predicted_value])
 
 plt.imshow(x)
+plt.title(f"Dog breed : {breed_map[predicted_value]}")
 plt.axis('off')
 plt.show()
 
