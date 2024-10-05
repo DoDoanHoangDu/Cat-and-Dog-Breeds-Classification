@@ -7,3 +7,5 @@ https://www.kaggle.com/datasets/ma7555/cat-breeds-dataset
 
 Dog breed model:
 https://drive.google.com/drive/folders/1h7scxQWBmHOfI_IDmdVyBjC5-fuQUKO1?usp=sharing
+Cat breed model:
+https://drive.google.com/drive/folders/1FwrwtNt0K5x7XVxWUX0sZKqUxeRF6-1R?usp=sharing
