@@ -1,0 +1,8 @@
+Data sources:
+https://www.kaggle.com/datasets/tongpython/cat-and-dog
+https://www.kaggle.com/datasets/jessicali9530/stanford-dogs-dataset
+https://www.kaggle.com/datasets/doctrinek/catbreedsrefined-7k
+
+
+
+Model link
