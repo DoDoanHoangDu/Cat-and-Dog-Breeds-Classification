@@ -7,4 +7,6 @@ https://www.kaggle.com/datasets/doctrinek/catbreedsrefined-7k <br>
 
 
 Model link <br>
-https://drive.google.com/drive/folders/1a5cQAY_cJE4vjcff_QD_o7hSCXI-GAGT?usp=sharing
+https://drive.google.com/drive/folders/1a5cQAY_cJE4vjcff_QD_o7hSCXI-GAGT?usp=sharing <br>
+<br>
+The models should be placed in the same directory as the infer.py file
